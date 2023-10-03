@@ -86,6 +86,8 @@ I could go on but I wont...
 ![no mana autograph](img/no_mana-autograph.jpg)
 
 **I love art. I have been an avid drawer since I was 6, my favorite sketching style is Realism. I love fantasy art the most. Here are some of my favorite drawings**
+
+
 ![Art Morgan La Fay](img/art_morgan_la_fay.JPG)
 ![art sword lady](img/art_swordlady.jpg)
 ![art vampire lady](img/art_vampire.jpg)
