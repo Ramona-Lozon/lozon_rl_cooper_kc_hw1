@@ -12,8 +12,8 @@
 
 ![the front of a denim punk rock vest covered in spikes and patches](/img/dk_front.jpg) 
 
-<img src="img/dk_back.jpg" width="48%" alt="the back of a spike covered denim punk vest with a large dead kennedys patch.">
-<img src="img/jr_front.jpg" width="48%" alt="the front of a black denim punk vest with brass studs and hardcore punk patches.">
+<img src="img/dk_back.jpg" width="40%" alt="the back of a spike covered denim punk vest with a large dead kennedys patch.">
+<img src="img/jr_front.jpg" width="40%" alt="the front of a black denim punk vest with brass studs and hardcore punk patches.">
 
 <img src="img/jr_back.jpg" width="100%" alt="the back of a black denim punk vest with a large patch showing the album art from jeff rosenstock's 'we cool' album">
 <hr>
